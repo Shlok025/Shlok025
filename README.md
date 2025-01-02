@@ -1,3 +1,6 @@
+![Header](https://github.com/Shlok025/Shlok025/blob/main/assets/github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Shlok Gaikwad</h1>
 
 <h4 align="left">I am a recent graduate in Artificial Intelligence and Data Science from Vidyavardhini’s College of Engineering and Technology, with a strong foundation in machine learning, data analysis, and software development. My academic and project experiences reflect a passion for leveraging AI to create impactful solutions.
