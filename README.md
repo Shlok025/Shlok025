@@ -11,9 +11,9 @@ During my studies, I worked on projects such as an AI-Powered Exam Proctoring Sy
 
 
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **LLM'S**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **GEN-AI**
 
 - 📫 How to reach me **Shlokgaikwad26@gmail.com**
   
