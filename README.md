@@ -1,4 +1,4 @@
-![Header](https://github.com/Shlok025/Shlok025/blob/main/assets/github-header-image.png)
+![Header](https://github.com/Shlok025/Shlok025/blob/main/assets/github-header-image2.png)
 
 
 <h1 align="center">Hi 👋, I'm Shlok Gaikwad</h1>
@@ -19,7 +19,10 @@ During my studies, I worked on projects such as an AI-Powered Exam Proctoring Sy
   
 - 👨‍💻 Know More about me  **[Porfolio](https://shlok-gaikwad.my.canva.site/)**
 
--   **[📄 Download Resume](https://drive.google.com/file/d/1EdeJYE9drV_k9LzYIeKuItJl05ISepQC/view?usp=sharing)**
+-  📥 Download Resume<br>
+   ├──  **[📄 DATA Analyst Resume](https://drive.google.com/file/d/1mbIJfrZ5GHAaq4wt2dOHCcvOfpqpYvx9/view?usp=sharing)** <br>
+   └──  **[📄 AI Engineer Resume](https://drive.google.com/file/d/1DUotodcrTHdcsIVLLqpzSDgjTE47otXP/view?usp=sharing)**
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
